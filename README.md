@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/pack-track.git
+git clone https://github.com/pulak-sarmah/pack-track.git
 ```
 
 2. Navigate to the project directory:
